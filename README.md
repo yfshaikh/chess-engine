@@ -1,6 +1,6 @@
 # Introduction
 
-This project implements chess in Python using PyGame. It includes an AI to play against that uses NegaMax with Alpha Beta Pruning. This project was inspired by Eddie Sharick's Youtube series
+Implementing chess in Python using PyGame, including a playable AI that uses NegaMax with Alpha Beta Pruning. This project was inspired by Eddie Sharick's Youtube series
 
 ## Instructions
 
